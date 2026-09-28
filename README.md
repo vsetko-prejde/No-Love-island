@@ -1,3 +1,3 @@
 # Love-island-makes-my-brain-hurt
-This is a chrome extension created to redirect you from any uel containing "love island" to slovak labour office
+This is a chrome extension created to redirect you from any uel containing "love island" to slovak labour office.
 Further info found inside the README file inside the folder
