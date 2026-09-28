@@ -7,12 +7,15 @@ This Chrome/Edge extension redirects any top-level HTTP or HTTPS URL containing 
 ## Install in Chrome or Edge
 
 1. Open `chrome://extensions` in Chrome, or `edge://extensions` in Edge.
-2. Turn on **Developer mode**.
-3. Select **Load unpacked**.
-4. Choose this `loveisland-redirect-extension` folder.
-5. Open or refresh a URL containing `LoveIsland` to test it.
+2. Go to `manage extensions`
+3. Turn on **Developer mode**.
+4. Select **Load unpacked**.
+5. Choose this `loveisland-redirect-extension` folder.
+6. Open or refresh a URL containing `LoveIsland` to test it.
 
 The extension runs locally and does not send browsing data anywhere.
+
+If there is a problem with selecting correct file just select the next in the whole folder, that should fix it
 
 ## Run as a Python script
 
